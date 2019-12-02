@@ -1,4 +1,4 @@
-# Projects
+# Sickle_Cell_DNA_Sequencer
 
 This program simulates the effects of the Single Nucleotide Polymorphism that leads to the Sickle Cell genetic disease.
 
